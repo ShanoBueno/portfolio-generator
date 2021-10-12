@@ -1,1 +1,1 @@
-# Portfolio Genderator
+# Portfolio Generator
